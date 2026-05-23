@@ -14,7 +14,7 @@ Senior Fullstack Engineer • React, Next.js & Node Specialist • Building Scal
 
 ## 🚀 About Me
 
-I’m a **Senior Frontend Engineer** with 5+ years of experience building scalable SaaS products, enterprise dashboards, and modern web applications.
+I’m a **Senior Fullstack Engineer** with 5+ years of experience building scalable SaaS products, enterprise dashboards, and modern web applications.
 
 I specialize in:
 
