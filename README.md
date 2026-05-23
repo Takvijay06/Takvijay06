@@ -148,7 +148,7 @@ Worked on improving:
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github.com/takvijay06/takvijay06/snake.svg" alt="snake animation" />
+  <img src="https://github.com/Takvijay06/Takvijay06/blob/main/snake.svg" alt="snake animation" />
 </p>
 
 ---
