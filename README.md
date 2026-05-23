@@ -63,23 +63,29 @@ Worked on improving:
   <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,redux,tailwind,html,css,sass,vite" />
 </p>
 
+### Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=node,nest,java" />
+</p>
+
 ### State Management & APIs
 
 <p>
   <img src="https://skillicons.dev/icons?i=graphql,firebase" />
 </p>
 
-* Redux Toolkit
+* Redux Toolkit/ Redux
 * React Query / TanStack Query
 * Zustand
 * Context API
 * REST APIs
-* Axios
+* Axios/Fetch
 
 ### Testing & Quality
 
 <p>
-  <img src="https://skillicons.dev/icons?i=jest,cypress" />
+  <img src="https://skillicons.dev/icons?i=jest,react-testing" />
 </p>
 
 ### Dev Tools & Deployment
