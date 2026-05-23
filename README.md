@@ -136,13 +136,13 @@ Worked on improving:
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=takvijay06&show_icons=true&theme=tokyonight" alt="stats" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=takvijay06&layout=compact&theme=tokyonight" alt="languages" />
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=takvijay06&theme=tokyonight" alt="streak" />
