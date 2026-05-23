@@ -66,7 +66,7 @@ Worked on improving:
 ### Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=node,nest,java" />
+  <img src="https://skillicons.dev/icons?i=nodejs,nest,java" />
 </p>
 
 ### State Management & APIs
