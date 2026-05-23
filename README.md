@@ -1,7 +1,7 @@
 # Hi 👋, I'm Vijay Tak
 
 <h3 align="center">
-Senior Frontend Engineer • React & Next.js Specialist • Building Scalable SaaS Platforms
+Senior Fullstack Engineer • React, Next.js & Node Specialist • Building Scalable SaaS Platforms
 </h3>
 
 <p align="center">
@@ -88,11 +88,10 @@ Worked on improving:
   <img src="https://skillicons.dev/icons?i=git,github,vercel,netlify" />
 </p>
 
-* Sentry
 * LogRocket
 * CI/CD
 * Lighthouse
-* AI-assisted development tools
+* AI-assisted development tools - Cursor, Copilot
 
 ---
 
